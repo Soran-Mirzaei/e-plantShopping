@@ -4,7 +4,7 @@ A sophisticated e-commerce web application for plant lovers, built with **React*
 
 
 ## 🚀 Demo
-You can see the live demo here: [(https://your-demo-url.com)](https://soran-mirzaei.github.io/e-plantShopping/)
+You can see the live demo here: [(e-plantShopping)](https://soran-mirzaei.github.io/e-plantShopping/)
 ---
 
 ## 👤 Author
