@@ -273,7 +273,8 @@ function ProductList() {
             <div className="navbar" style={styleObj}>
                 <div className="tag">
                     <div className="luxury">
-                        <img src="Pngtree.png" alt="" />
+                        <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
+                        <a href="/" onClick={(e) => handleHomeClick(e)}>" alt="" />
                         <a href="/paradise-nursery-shopping-cart-app/" style={{ textDecoration: 'none' }}>
                             <div>
                                 <h3 style={{ color: 'white' }}>Soran's Nursery</h3>
