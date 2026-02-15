@@ -2,6 +2,9 @@
 
 A sophisticated e-commerce web application for plant lovers, built with **React** and **Redux Toolkit**. This project showcases a seamless shopping experience from browsing diverse plant categories to managing a dynamic shopping cart.
 
+
+## 🚀 Demo
+You can see the live demo here: [[Live Demo Link](https://your-demo-url.com)](https://soran-mirzaei.github.io/e-plantShopping/)
 ---
 
 ## 👤 Author
